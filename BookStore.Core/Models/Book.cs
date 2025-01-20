@@ -4,14 +4,14 @@
     {
         public const int MAX_TITLE_LENGTH = 150;
 
-        public Guid Guid { get; }
+        public Guid Id { get; }
         public string Title {  get; } = string.Empty;
-        public string Description = string.Empty;
+        public string Description { get; } = string.Empty;
         public decimal Price {  get; }
 
         private Book(Guid id, string title, string description, decimal price) 
         {
-            Guid = id;
+            Id = id;
             Title = title;
             Description = description;
             Price = price;
