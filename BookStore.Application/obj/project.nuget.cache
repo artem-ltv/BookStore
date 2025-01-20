@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ab87PVzb3hc=",
+  "dgSpecHash": "m9xbwl+jdF8=",
   "success": true,
-  "projectFilePath": "D:\\Proj\\BookStore\\BookStore.API\\BookStore.Application\\BookStore.Application.csproj",
+  "projectFilePath": "D:\\GitHub\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
