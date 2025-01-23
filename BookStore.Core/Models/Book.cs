@@ -19,7 +19,7 @@
 
         public static (Book book, string Error) Create(Guid id, string title, string description, decimal price)
         {
-            var error = string .Empty;
+            var error = string.Empty;
 
             if (string.IsNullOrEmpty(title) || title.Length > MAX_TITLE_LENGTH) 
             {
