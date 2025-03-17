@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\DOTNET\\BookStore\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\GitHub\\BookStore\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE9705-9056-48C5-AA89-5031A417D63C}|BookStore.Core\\BookStore.Core.csproj|d:\\github\\bookstore\\bookstore\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE9705-9056-48C5-AA89-5031A417D63C}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Models\\Book.cs",
+              "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.Core\\Models\\Book.cs",
+              "RelativeToolTip": "BookStore.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:11:10.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
