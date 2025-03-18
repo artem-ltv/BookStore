@@ -6,7 +6,7 @@ namespace BookStore.DataAccess
 {
     public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
     {
-        DbSet<BookEntity> Books {  get; set; }
+        public DbSet<BookEntity> Books {  get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

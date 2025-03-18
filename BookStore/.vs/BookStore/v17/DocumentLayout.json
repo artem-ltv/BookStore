@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\BookStore\\BookStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29EE9705-9056-48C5-AA89-5031A417D63C}|BookStore.Core\\BookStore.Core.csproj|d:\\github\\bookstore\\bookstore\\bookstore.core\\abstractions\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE9705-9056-48C5-AA89-5031A417D63C}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\abstractions\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\github\\bookstore\\bookstore\\bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB64BF00-CA54-4D9E-939F-4E8F47E894C6}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE9705-9056-48C5-AA89-5031A417D63C}|BookStore.Core\\BookStore.Core.csproj|d:\\github\\bookstore\\bookstore\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeToolTip": "BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:00:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:33:37.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
               "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
               "RelativeToolTip": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:33:16.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookEntity.cs",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\Entities\\BookEntity.cs",
               "RelativeDocumentMoniker": "BookStore.DataAccess\\Entities\\BookEntity.cs",
@@ -60,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BookStore.DataAccess\\ApplicationDbContext.cs",
               "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "BookStore.DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:25:30.073Z",
               "EditorCaption": ""
@@ -74,7 +108,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookStore.DataAccess",
+              "Title": "BookStore.DataAccess.csproj",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
               "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
               "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore.Core\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookStore.Core\\Models\\Book.cs",
