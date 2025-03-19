@@ -134,10 +134,11 @@ D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets\msbuild
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.API.props
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStore.API.props
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.pack.json
-D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\BookStor.9B7625E8.Up2Date
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\BookStore.API.dll
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\refint\BookStore.API.dll
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\BookStore.API.pdb
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\BookStore.API.genruntimeconfig.cache
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\ref\BookStore.API.dll
+D:\GitHub\BookStore\BookStore\BookStore\bin\Debug\net8.0\BookStore.Application.dll
+D:\GitHub\BookStore\BookStore\BookStore\bin\Debug\net8.0\BookStore.Application.pdb

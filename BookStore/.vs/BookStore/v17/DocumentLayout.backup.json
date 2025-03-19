@@ -82,21 +82,19 @@
               "RelativeToolTip": "BookStore\\Contracts\\BooksResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T19:37:33.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:37:33.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookStore.API",
+              "Title": "BookStore.API.csproj",
               "DocumentMoniker": "D:\\GitHub\\BookStore\\BookStore\\BookStore\\BookStore.API.csproj",
               "RelativeDocumentMoniker": "BookStore\\BookStore.API.csproj",
               "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore\\BookStore.API.csproj",
               "RelativeToolTip": "BookStore\\BookStore.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T19:37:10.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:37:10.61Z"
             },
             {
               "$type": "Document",
@@ -106,7 +104,7 @@
               "RelativeDocumentMoniker": "BookStore\\Controllers\\BooksController.cs",
               "ToolTip": "D:\\GitHub\\BookStore\\BookStore\\BookStore\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BookStore\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T19:34:29.126Z",
               "EditorCaption": ""
@@ -145,8 +143,7 @@
               "RelativeToolTip": "BookStore.Application\\BookStore.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T19:20:04.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:20:04.271Z"
             },
             {
               "$type": "Document",
@@ -170,8 +167,7 @@
               "RelativeToolTip": "BookStore\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T19:07:13.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:07:13.472Z"
             },
             {
               "$type": "Document",
@@ -243,8 +239,7 @@
               "RelativeToolTip": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-17T19:24:23.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T19:24:23.077Z"
             },
             {
               "$type": "Document",
