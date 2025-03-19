@@ -142,3 +142,4 @@ D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\BookStore.API.genruntim
 D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\ref\BookStore.API.dll
 D:\GitHub\BookStore\BookStore\BookStore\bin\Debug\net8.0\BookStore.Application.dll
 D:\GitHub\BookStore\BookStore\BookStore\bin\Debug\net8.0\BookStore.Application.pdb
+D:\GitHub\BookStore\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
