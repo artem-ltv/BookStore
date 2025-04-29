@@ -5,7 +5,7 @@
         public const int MAX_TITLE_LENGTH = 250;
 
         public Guid Id { get;}
-        public string Title { get; set; } = string.Empty;
+        public string Title { get; } = string.Empty;
         public string Description { get;} = string.Empty;
         public decimal Price { get; }
 

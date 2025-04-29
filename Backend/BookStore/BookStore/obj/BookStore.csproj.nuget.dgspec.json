@@ -4,6 +4,78 @@
     "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
+    "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\BookStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
+        "projectName": "BookStore.Application",
+        "projectPath": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
+        "packagesPath": "C:\\Users\\artemLitvinenko\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artemLitvinenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {
+                "projectPath": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -191,6 +263,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\BookStore.Application.csproj": {
+                "projectPath": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.Application\\BookStore.Application.csproj"
+              },
               "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.DataAccess\\BookStore.DataAccess.csproj": {
                 "projectPath": "D:\\GitHub\\BookStore\\Backend\\BookStore\\BookStore.DataAccess\\BookStore.DataAccess.csproj"
               }
