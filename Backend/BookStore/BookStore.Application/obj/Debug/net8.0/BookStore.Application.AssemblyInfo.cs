@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BookStore")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BookStore.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+291c5079a729233f50b5747e993bd803bbe38f36")]
-[assembly: System.Reflection.AssemblyProductAttribute("BookStore")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BookStore")]
+[assembly: System.Reflection.AssemblyProductAttribute("BookStore.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BookStore.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
