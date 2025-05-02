@@ -1,6 +1,7 @@
 ﻿using BookStore.Core.Abstractions;
 using BookStore.Core.Models;
 using BookStore.DataAccess.Entities;
+using BookStore.DataAccess.Mappers;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookStore.DataAccess.Repositories
@@ -16,7 +17,7 @@ namespace BookStore.DataAccess.Repositories
                 .ToListAsync();
 
             var books = booksEntities
-                .Select(b => Book.Create(b.Id, b.Title, b.Description, b.Price).Book)
+                .Select(b => b.MapToBook())
                 .ToList();
 
             return books;

@@ -142,3 +142,4 @@ D:\GitHub\BookStore\Backend\BookStore\BookStore\obj\Debug\net8.0\refint\BookStor
 D:\GitHub\BookStore\Backend\BookStore\BookStore\obj\Debug\net8.0\BookStore.pdb
 D:\GitHub\BookStore\Backend\BookStore\BookStore\obj\Debug\net8.0\BookStore.genruntimeconfig.cache
 D:\GitHub\BookStore\Backend\BookStore\BookStore\obj\Debug\net8.0\ref\BookStore.dll
+D:\GitHub\BookStore\Backend\BookStore\BookStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
